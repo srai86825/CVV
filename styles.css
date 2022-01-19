@@ -1,0 +1,52 @@
+
+body{
+  background-color:#223C44;
+}
+hr{border: none;
+  color:#848E93;
+  border-style:none;
+  border-top: 7px dotted;
+  background-color:#223C44;
+  height:1px;
+  width: 6%;
+}
+h1{
+  color:#708090;
+  font-family:cursive;
+}
+h1:hover{
+  color:#C71585;
+  font-family:cursive;
+}
+h3{
+  color:#C71585;
+}
+
+p{
+  color:#DCDCDC;
+}
+
+.heading:hover{
+  color:#C71585;
+}
+a{
+  color:#708090;
+}
+.circular{
+  border-radius: 50%;
+}
+.r2c{
+  border-radius: 27%;
+}
+.pink{
+  color:#C71585
+}
+.grey{
+  color:#708090;
+}
+
+img:hover{
+  border-radius: 30%;
+  height: "120";
+  width: "110";
+}
